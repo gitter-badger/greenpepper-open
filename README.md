@@ -1,5 +1,7 @@
 # greenpepper-open
 
+[![Join the chat at https://gitter.im/strator-dev/greenpepper-open](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/strator-dev/greenpepper-open?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Want to Contribute ? 
 
 ### Open tickets on [GitHub/issues](https://github.com/strator-dev/greenpepper-open/issues)
